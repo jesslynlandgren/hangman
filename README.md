@@ -39,7 +39,7 @@ The functions are as follows:
 
 he base ASCII array will be modified with each unsuccessful guess.  I started with this sketch to define the skeleton array in the main code, while setASCII returns the original array modified based on the guess number to show the correct number of "body parts."  
 
-![ASCII Sketch](/images/hangman_ascii.jpg)
+![ASCII Sketch](/images/ascii_crop.png)
 
 ##Screenshots
 
