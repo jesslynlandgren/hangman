@@ -39,11 +39,11 @@ The functions are as follows:
 
 he base ASCII array will be modified with each unsuccessful guess.  I started with this sketch to define the skeleton array in the main code, while setASCII returns the original array modified based on the guess number to show the correct number of "body parts."  
 
-![ASCII Sketch][hangman_ascii.jpg]
+![ASCII Sketch](hangman_ascii.jpg)
 
 ##Screenshots
 
-![Hangman1][hangman1.tiff]
-![Hangman2][hangman2.tiff]
-![Hangman3][hangman3.tiff]
-![Hangman4][hangman4.tiff]
+![Hangman1](hangman1.tiff)
+![Hangman2](hangman2.tiff)
+![Hangman3](hangman3.tiff)
+![Hangman4](hangman4.tiff)
